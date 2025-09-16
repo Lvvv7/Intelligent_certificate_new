@@ -1,0 +1,11 @@
+Flask==3.1.2
+flask_cors==6.0.1
+numpy==2.2.3
+onnxruntime==1.22.1
+opencv_python==4.12.0.88
+Pillow==11.3.0
+pywin32==311
+selenium==4.35.0
+Shapely==2.1.1
+SQLAlchemy==2.0.43
+pymysql==1.1.2
